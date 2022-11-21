@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.login{
+    text-align: center;
+    background-color: rgb(136, 212, 254);
+    color: rgb(63, 60, 241);
+    border: 1px solid grey;
+    border-radius: 20px;
+    height: 300px;
+    width: 450px;
+    margin-left: 35%;
+    padding-top: 102px;
+    margin-top: 30px;
+    border-radius: 6px;
+}
+.reg{
+    text-align: center;
+    background-color: rgb(136, 212, 254);
+    color: rgb(63, 60, 241);
+    border: 1px solid grey;
+    border-radius: 18px;
+    height: 500px;
+    width: 490px;
+    margin-left: 35%;
+    padding-top: 102px;
+    margin-top: 30px;
+}
+.det1{
+    text-align: center;
+    background-color: rgb(136, 212, 254);
+    color: rgb(63, 60, 241);
+    border: 1px solid grey;
+    border-radius: 18px;
+    height: 560px;
+    width: 520px;
+    margin-left: 35%;
+    padding-top: 80px;
+    margin-top: 30px;
+}
+.det{
+    text-align: center;
+    background-color: rgb(136, 212, 254);
+    color: rgb(232, 232, 248);
+    border: 1px solid grey;
+    border-radius: 18px;
+    height: 680px;
+    width: 520px;
+    margin-left: 35%;
+    padding-top: 80px;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.f{
+    font-size: 20px;
+    padding:16px;
+    
+    border: 1px solid  rgb(63, 60, 241);
+    margin-left: 4%;
+    margin-right:10%;
+}
+.f1{
+    margin-top: 28px;
+    margin-left: 5%;
+    margin-right: 10%;
+
+}
+.d{
+    padding: 13px;
+    font-size: 16px;
+}
+.d1{
+    padding: 12px;
+    font-size: 16px;
+}
+.btn{
+   border: 1px solid rgb(63, 60, 241);
+   background-color: aliceblue;
+   padding: 12px 36px;
+   border-radius: 30px;
+   text-decoration: none;
+
+}
+.btnd{
+    border: 1px solid rgb(63, 60, 241);
+    background-color: aliceblue;
+    padding: 12px 36px;
+    border-radius: 30px;
+    text-decoration: none;
+    position:relative;
+    left:42%;
+    right:20%;  
+    bottom:0%;
+    top:75%;
+}
+ .bc {
+    background-image: url("bluebc.jpg");
+    background-color:darkblue;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 0px;
+}
+.nav{
+    background-color: rgb(136, 212, 254);
+    color: white;
+    text-decoration: none;
+    height:60px; 
+    position: relative; 
+    margin-top: 0%;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.s{
+    margin-left: 1200px;
+    margin-right: 70px;
+}
+.card{
+    border:2px solid grey;
+    border-radius: 30px;
+    background-color: rgb(141, 178, 248);
+    color: white;
+    height: 100px;
+    width: 400px;
+    margin:27px;
+    padding: 13px;
+    font-size: 17px;
+    justify-content: center;
+    align-items: center;
+}
+.click{
+    color: blue;
+}
+.hh{
+    margin-left: 89%;
+    color: rgb(205, 216, 225);
+    font-size: 20px;
+}
+.results{
+    padding: 15% 0 0;
+	flex: 1 0 auto;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+}
+ .h1{
+    font-weight: 600;
+    margin-left: 28%;
+    color: white;
+    border: 1px solid grey;
+    background-color: rgb(141, 178, 248);
+    height: 160px;
+    width: 700px;
+    border-radius: 40px;
+    padding: 12px;
+} 
+.spn{
+    font-size: 70px;
+    font-weight: 800;
+    padding-left: 20%;
+}
+
